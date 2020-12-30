@@ -1,5 +1,5 @@
 import React from "react";
-import ThreeCanvas from "./components/ThreeCanvas";
+import ThreeCanvas from "./components/r3h/ThreeCanvas";
 
 const App = () => {
   return (
